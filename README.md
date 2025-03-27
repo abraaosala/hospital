@@ -8,10 +8,10 @@
 - PHP >= 8.2
 * Composer instalados
 
-## Pepositorio
+## Cópiar Repositorio
 
 ```bash
-        https://github.com/abraaosala/hospital.git
+    git clone https://github.com/abraaosala/hospital.git
 
 ```
 
@@ -20,7 +20,7 @@
 ## Atualizar os pacotes
 
 ```bash
-        composer update
+    composer update
 ```
 
 
