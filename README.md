@@ -15,9 +15,12 @@
 `` 
 
 
-## Actualizar os pacotes 
-``bash
+```markdown
+## Atualizar os pacotes
 
-``
+```bash
+composer update
+```
+
 
 
